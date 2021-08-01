@@ -2,6 +2,9 @@
 project name annapurna
 live demo apk : https://www.dropbox.com/s/f6n7gjmiku384dg/app-release.apk?dl=0
 
+# video link
+https://www.dropbox.com/s/x60lduqlrz5348f/WhatsApp%20Video%202021-08-01%20at%207.46.40%20AM.mp4?dl=0
+
 Annapurna (goddess of food)
 The anti-food waste app that lets you meet your neighbors
 
