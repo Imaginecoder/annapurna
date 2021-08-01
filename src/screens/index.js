@@ -1,0 +1,11 @@
+export {default as SplashScreen} from './SplashScreen';
+export {default as SignInScreen} from './SignInScreen';
+export {default as SignUpScreen} from './SignUpScreen';
+export {default as ResetPasswordScreen} from './ResetPasswordScreen';
+export {default as HomeScreen} from './HomeScreen';
+export {default as ProfileScreen} from './ProfileScreen';
+// export {default as EditProfileScreen} from './EditProfileScreen';
+export {default as AddPostScreen} from './AddPostScreen';
+export {default as ChatScreen} from './ChatScreen';
+export {default as MessagesScreen} from './MessagesScreen';
+export {default as ViewPostScreen} from './ViewPostScreen';
