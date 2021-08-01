@@ -1,0 +1,18 @@
+applications:
+- buildpack: java_buildpack
+  disk_quota: 1G
+  domain: null
+  env:
+    JAVA_OPTS: -XX:ReservedCodeCacheSize=32M -XX:MaxDirectMemorySize=32M
+    JBP_CONFIG_OPEN_JDK_JRE: '[memory_calculator: {stack_threads: 30}]'
+  host: null
+  instances: 1
+  memory: 256M
+  name: annapurnajygyz20210713
+  path: ./target/javaspringapp-1.0-SNAPSHOT.jar
+  routes:
+  - route: AnnapurnaJYGYZ2021-07-13-dev.eu-gb.cf.appdomain.cloud
+  services:
+  - annapurna-jygyz-2021-cloudant-1626203275890-37255
+  - annapurna-jygyz-2021-cloudant-1626203275890
+  timeout: 180
