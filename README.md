@@ -1,6 +1,5 @@
 # annapurna
 project name annapurna
-live demo apk : https://www.dropbox.com/s/f6n7gjmiku384dg/app-release.apk?dl=0
 
 # video link
 https://www.dropbox.com/s/x60lduqlrz5348f/WhatsApp%20Video%202021-08-01%20at%207.46.40%20AM.mp4?dl=0
@@ -26,3 +25,6 @@ Initially Annapurna is based on a freemium model in order to grow its user commu
 Secondly, once we have sufficient data, we will be able to publish and sell studies on the decrease in food waste among individuals and on the behavior of communities among themselves within a geographic territory (withdrawal or on the contrary opening and inter-community meetings) with companies or public authorities. Annapurna will also be able to make available to cities wishing to promote meetings between certain communities through meals by providing a SAas tool accessible on subscription and allowing municipalities to have reliable data on their campaign to fight against food waste and prevent food waste. racism or community withdrawal.
 Allowing in the long term to be able to prevent intercommunity problems, but also to give aid to the territory with positive results, thanks to an integrated scoring.
 
+# Todo
+-Fix Chat Functionality
+-Add google maps integration
